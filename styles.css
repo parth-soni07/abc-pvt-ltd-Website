@@ -1,0 +1,152 @@
+/* --------------------------------------------------------- ScrollBar ------------------------------------------------------------ */
+ /* width */
+ ::-webkit-scrollbar {
+    width: 12px;
+    border-radius: 50px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: #f1f1f1;
+    border-radius: 50px;
+  }
+  
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 50px;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555;
+    border-radius: 50px;
+  } 
+/* --------------------------------------------------------- ScrollBar ------------------------------------------------------------ */
+.NavBarTitle{
+    font-size: 100px;
+}
+.center {
+    text-align: center;
+}
+
+
+#SectionOne{
+    color: white;
+    background-color: #0E8388;
+    text-align: center;
+    ;
+}
+.SectionOne-1{
+    margin-top: 250px;
+    padding-bottom: 220px; 
+}
+#header-button{
+    font-size: 25px;
+    font-weight: bold;
+    border-radius: 30px;
+    background-color: #263159;
+    border-width: 0.25px;
+    padding: 5px;
+    padding-inline: 30px;
+    padding-bottom: 8px;
+    color: white;
+}
+/* ------------------------------------------------------------News------------------------------------------------------------------- */
+#section-two{
+    padding: 50px;
+    text-align: center;
+    background-color: #C2DEDC;
+}
+
+.c-items{
+    box-sizing: border-box;
+    box-shadow: 0 0 10px 0 rgba(6, 99, 165, 0.8);
+    border-radius: 50px;
+    height: 350px;
+    padding-top: 120px;
+    margin: 107px auto;
+}
+.c-slider{
+    position: fixed;
+    color: #0E2954;
+    
+}   
+#Courosel-button{
+    font-family: 'Poppins', sans-serif;
+    background-color: #0E2954;
+    color: white;
+    border-radius: 50px;
+    padding-inline: 1.3%;
+    padding-top: 7px;
+    margin-top: 45px;
+}
+/* ------------------------------------------------------------News------------------------------------------------------------------- */
+
+
+/* Jobs Listing */
+#Section-three{
+    text-align: center;
+    background-color: #0E2954;
+    color: white;
+    width: 100%;
+    padding: 50px;
+}
+.feature-box{
+    box-shadow: 0 0 10px 0 rgba(255, 255, 255, 0.8);
+    border-radius: 40px;
+    padding: 30px;
+    margin: 60px;
+    margin-bottom: 50px;
+}
+
+.job-button{
+    font-size: 22px;
+    font-weight: bold;
+    background-color: white;
+    border-radius: 50px;
+    padding: 8px;
+    padding-inline: 20px;
+    margin-top: 5px;
+    padding-bottom: 13px;
+}
+
+/* Updates */
+
+#updates-section{
+    padding: 50px;
+    text-align: center;
+    background-color: #FFD89C;
+}
+
+.update-section-p{
+    padding: 20px 150px;
+    
+}
+.updates-title{
+        margin-top: -10px;
+}
+#updatesCorousel{
+    margin: 108px auto;
+    padding: 100px;
+}
+
+/*  C - Title */
+.c-title{
+    font-family: 'Raleway', sans-serif;
+    font-size: 80px;
+}
+
+/* Footer */
+#footer{
+    padding: 30px auto 10px auto;
+    color: white;
+    background-color: #393646;
+    width: 100%;
+    text-align: center;
+}
+.suppot-details{
+    padding: 30px;
+    margin: 60px;
+    margin-bottom: 50px;
+}
